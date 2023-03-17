@@ -1,0 +1,4 @@
+nhanes/data/*
+nhanes/data/nhanes_data/*
+introduction_python/data/*
+.DS_Store
